@@ -12,3 +12,4 @@ pytest-cov==2.12.1
 pytest-timeout==1.4.2
 pytest==6.2.5
 pyupgrade==2.25.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
